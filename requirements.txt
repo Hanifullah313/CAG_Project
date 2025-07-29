@@ -1,0 +1,8 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+python-dotenv==1.0.1
+google-generativeai==0.5.5
+pypdf==4.2.0
+python-multipart==0.0.9
+nest-asyncio==1.6.0
+pyngrok==7.1.2
